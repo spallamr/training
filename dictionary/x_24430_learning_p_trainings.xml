@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Trainings" max_length="40" name="x_24430_learning_p_trainings" type="collection">
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Code" max_length="40" name="code" type="integer"/>
+        <element label="Duration" max_length="40" name="duration" type="integer"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Type" max_length="40" name="type" type="string"/>
+    </element>
+</database>
