@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="User Registration" max_length="40" name="x_24430_learning_p_user_registration" type="collection"/>
+</database>

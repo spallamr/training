@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="code" label="Code" language="en" table="x_24430_learning_p_training_schedule">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>code</element>
+            <help/>
+            <hint/>
+            <label>Code</label>
+            <language>en</language>
+            <name>x_24430_learning_p_training_schedule</name>
+            <plural>Codes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-05-28 01:44:04</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>2176b9780f073200381765ba32050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Code</sys_name>
+            <sys_package display_value="Learning Portal" source="x_24430_learning_p">5554d0ac0f033200381765ba32050e5e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Learning Portal">5554d0ac0f033200381765ba32050e5e</sys_scope>
+            <sys_update_name>sys_documentation_x_24430_learning_p_training_schedule_code_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-05-28 01:44:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

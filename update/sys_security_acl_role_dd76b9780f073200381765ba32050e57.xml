@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-28 01:44:03</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>dd76b9780f073200381765ba32050e57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_24430_learning_p_training_schedule.x_24430_learning_p.user</sys_name>
+        <sys_package display_value="Learning Portal" source="x_24430_learning_p">5554d0ac0f033200381765ba32050e5e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Learning Portal">5554d0ac0f033200381765ba32050e5e</sys_scope>
+        <sys_security_acl display_value="x_24430_learning_p_training_schedule">d176b9780f073200381765ba32050e55</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd76b9780f073200381765ba32050e57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-28 01:44:03</sys_updated_on>
+        <sys_user_role display_value="x_24430_learning_p.user" name="x_24430_learning_p.user">6d5410e00f433200381765ba32050eef</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
