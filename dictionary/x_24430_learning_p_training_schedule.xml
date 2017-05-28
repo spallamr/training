@@ -3,7 +3,7 @@
     <element label="Training Schedule" max_length="40" name="x_24430_learning_p_training_schedule" type="collection">
         <element label="Available" max_length="40" name="available" type="integer"/>
         <element label="Capacity" max_length="40" name="capacity" type="integer"/>
-        <element label="Code" max_length="32" name="code" reference="x_24430_learning_p_trainings" type="reference"/>
+        <element label="Code" max_length="32" name="code" type="integer"/>
         <element label="End Date" max_length="40" name="end_date" type="glide_date_time"/>
         <element label="Location" max_length="40" name="location" type="string"/>
         <element label="Registered" max_length="40" name="registered" type="integer"/>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <disabled>true</disabled>
+        <field>code</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-05-28 03:47:32</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>259292b40f473200381765ba32050e89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>code</sys_name>
+        <sys_package display_value="Learning Portal" source="x_24430_learning_p">5554d0ac0f033200381765ba32050e5e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Learning Portal">5554d0ac0f033200381765ba32050e5e</sys_scope>
+        <sys_update_name>sys_ui_policy_action_259292b40f473200381765ba32050e89</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-05-28 03:47:32</sys_updated_on>
+        <table>x_24430_learning_p_training_schedule</table>
+        <ui_policy display_value="Custom Set  Code">7052de740f473200381765ba32050ea2</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+</record_update>
