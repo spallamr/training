@@ -13,15 +13,15 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-05-28 01:44:04</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>a176b9780f073200381765ba32050e9c</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>074ab4ce0fcb32009fa009ece1050efd</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_24430_learning_p_training_schedule</sys_name>
         <sys_package display_value="Learning Portal" source="x_24430_learning_p">5554d0ac0f033200381765ba32050e5e</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Learning Portal">5554d0ac0f033200381765ba32050e5e</sys_scope>
-        <sys_update_name>ua_table_licensing_config_a176b9780f073200381765ba32050e9c</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_074ab4ce0fcb32009fa009ece1050efd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2017-05-28 01:44:04</sys_updated_on>
     </ua_table_licensing_config>
